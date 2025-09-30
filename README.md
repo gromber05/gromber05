@@ -5,14 +5,14 @@
 
 - 🌱 I’m currently learning **JavaScript & Java** 
 
-- 📫 How to reach me: **gonzalorbac@gmail.com**
+- 📫 How to reach me: **gonzaloromerobernal05@gmail.com**
 
 - ⚡ What I like to do: **I like so much gaming, basketball and football...and coding of course**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contact me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalorbac@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzaloromerobernal05@gmail.com)
   
 </div>
 
