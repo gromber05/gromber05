@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Gonzalo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Kotlin and Back-End developer from Spain</h3>
 
-- 🔭 I’m currently working on my **JavaScript & Java beginnings**
+- 🔭 I’m currently working on my **Final Year Proyect: Delvo**
 
-- 🌱 I’m currently learning **JavaScript & Java** 
+- 🌱 I’m currently learning **JavaScript, Java, Spring Boot and Jetpack Compose** 
 
-- 📫 How to reach me: **gonzaloromerobernal05@gmail.com**
+- 📫 How to reach me: **gonzalorbac@gmail.com**
 
 - ⚡ What I like to do: **I like so much gaming, basketball and football...and coding of course**
 
 <h3 align="center">Contact me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzaloromerobernal05@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalorbac@gmail.com)
   
 </div>
 
