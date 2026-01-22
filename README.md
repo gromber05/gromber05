@@ -5,14 +5,14 @@
 
 - 🌱 I’m currently learning **JavaScript, Java, Spring Boot and Jetpack Compose** 
 
-- 📫 How to reach me: **gonzalorbac@gmail.com**
+- 📫 How to reach me: **contacto@gonzaloromerobernal.es**
 
 - ⚡ What I like to do: **I like so much gaming, basketball and football...and coding of course**
 
 <h3 align="center">Contact me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalorbac@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@gonzaloromerobernal.es)
   
 </div>
 
@@ -43,6 +43,5 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=gromber05&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gromber05&theme=react&layout=compact" />
 </p>
