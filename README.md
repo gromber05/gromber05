@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonzalo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Kotlin and Back-End developer from Spain</h3>
+<h3 align="center">A passionate Kotlin Frontend developer from Spain</h3>
 
 - 🔭 I’m currently working on my **Final Year Proyect: Delvo**
 
