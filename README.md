@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gonzalo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-
-<h1 align="center">👋 Hi, I'm Gonzalo Romero Bernal</h1>
 <h3 align="center">💻 Kotlin & Full-Stack Developer</h3>
 
 <p align="center">
