@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on **Delvo (Final Year Project)**
 - 🌱 Learning **React Native, FastAPI & Next.js**
-- 💡 Focused on **Backend & Mobile Development**
+- 💡 Focused on **Frotend & Mobile Development**
 - 📫 Contact: **gonzaloromerobernal05@gmail.com**
 - 🌐 Portfolio: **https://gonzaloromerobernal.es/**
 
