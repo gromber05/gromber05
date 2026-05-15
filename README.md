@@ -13,7 +13,7 @@
 - 🌱 Learning **React Native, FastAPI & Next.js**
 - 💡 Focused on **Frotend & Mobile Development**
 - 📫 Contact: **gonzaloromerobernal05@gmail.com**
-- 🌐 Portfolio: **https://gonzaloromerobernal.es/**
+- 🌐 Portfolio: **https://gromber05.dev/**
 
 ---
 
