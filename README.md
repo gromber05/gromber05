@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonzalo <img height="40" src="https://raw.githubusercontent.com/gromber05/gromber05/main/assets/parrot.gif"></h1>
-<h3 align="center">💻 Kotlin & Full-Stack Developer</h3>
+<h3 align="center">💻 Full-Stack Developer</h3>
 
 <p align="center">
   🚀 Passionate about building scalable apps & clean architectures  
@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Delvo (Final Year Project)**
+- 🔭 Currently working on **Inferencia Integral SL**
 - 🌱 Learning **React Native, FastAPI & Next.js**
-- 💡 Focused on **Frotend & Mobile Development**
+- 💡 Focused on **Full Stack Development**
 - 📫 Contact: **gonzaloromerobernal05@gmail.com**
 - 🌐 Portfolio: **https://gromber05.dev/**
 
