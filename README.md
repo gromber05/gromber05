@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Inferencia Integral SL**
+- 🔭 Currently **not** working
 - 🌱 Learning **React Native, FastAPI & Next.js**
 - 💡 Focused on **Full Stack Development**
 - 📫 Contact: **gonzaloromerobernal05@gmail.com**
